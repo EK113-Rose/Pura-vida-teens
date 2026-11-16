@@ -186,3 +186,6 @@ If my build could only do one thing, it would help teens and adults.
 STEP 6 · My Hackathon promise 🤞
 
 By Demo Day, 12 Dec, I promise to try my best and finish the project.
+
+User story 1
+As Claire who is a parent in the local community I want to find help with household tasks from teens in this community.This matters because it helps me save time to have a break and to enjoy more free time while also things are still getting done.
