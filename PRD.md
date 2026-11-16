@@ -187,5 +187,11 @@ STEP 6 · My Hackathon promise 🤞
 
 By Demo Day, 12 Dec, I promise to try my best and finish the project.
 
+
+
 User story 1
 As Claire who is a parent in the local community I want to find help with household tasks from teens in this community.This matters because it helps me save time to have a break and to enjoy more free time while also things are still getting done.
+
+User story 2
+As Kate, a mom of 3, i want to be able to look for someone that could help me anytime i need, so that i could rest or do my personal needs.
+It works when Kate can hire all the teens that are available to help her whenever she needs to and with whatever she needs help with. 
