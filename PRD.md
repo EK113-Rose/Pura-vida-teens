@@ -197,3 +197,5 @@ As Kate, a mom of 3, i want to be able to look for someone that could help me an
 It works when Kate can hire all the teens that are available to help her whenever she needs to and with whatever she needs help with. 
 
 How we”ll know it works: When the adult is able to hire a teen and the teens see the request and adult is able to pay and the teen is able to receive the money.
+
+Colors: Blue ,white and green 
